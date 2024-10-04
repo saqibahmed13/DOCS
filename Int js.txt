@@ -1,0 +1,54 @@
+1 . New tags In html5
+   header footer audio video time stamp article
+
+2. Should we inject div inside the span tag? will html give error?
+   No, we will not get any error but we should not put block element(div) inside inline element (span) sometimes in framework it will break in Prod semantically its wrong
+
+3. How to make responsive website using css?
+   we should rem in font size, media queries.
+
+4. 5 ways to center align a image inside a div?
+   using flex
+   using grid
+   table css
+   position css 
+   margin css
+
+5. what to use px or rem or em?
+    we will use rem for responsiveness because automatic font scaling is there 16 for 100% in px there is no autoscaling we should use media queries
+
+6. Basic Data types in Js
+   primitive
+   1.String
+   2.Number
+   3.BigInt
+   4.Boolean
+   5.Symbol
+   6.Undefined
+   7.Null 
+
+   Non primitive
+   Arrays, functions, Objects 
+
+7. what is event delegation and event bubbling ?
+
+
+   
+
+8. what are closure and uses ?
+
+  pass by referenece pass by value 
+
+9. whats the need of framework?
+   
+   usabilty is more efficiency will be more less debugging  
+
+10. how do js framworks work in bg                    
+  
+virtual Dom - its a light copy of DOM when we make changes it will be re - rendering in the DOM (solid DOM) browser
+
+11. react lifecycle methor or order ?
+
+12. difference btw high order components and pure components ?
+
+

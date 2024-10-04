@@ -1,0 +1,75 @@
+1 . local storage and session storage 
+2 . why react is so popular 
+    its a client side library, jsx , components , V DOM 
+
+3 . Diff states and props 
+
+state are mutable (data can be change in states over time)
+props are immutable (cannot change the data)
+
+4.hooks diff usememo and usecallback
+ memoize the value (usememo) 
+memoize the function(usecallback)
+
+5. diff btw null and undefined
+
+6. type of null(object) and undefined(undefined)
+
+7. How js is a dynamically type language 
+   in other languages we have to defined the datatypes example in c++ int char float where as 
+   in js we dont defined any datatypes
+
+8. Commends and its purpose : // to pass the msg to the developer 
+
+9. Tell me the o/p 2=='2 (o/p is true) and 2==='2'(o/p is false)
+
+10. Normal DOM and Virtual DOM 
+    DOM is the tree like structure of HTML elements where as virtual Dom is the carbon copy of Normal DOM, when ever any changes occures first it will be reflected in
+    virtual DOM and then only those changes will be rendered in the actual DOM. 
+
+11. promtwearing : basically it means passing data (props) from child to child component (basically in nested componenets) to avoid this will use context api and redux 
+
+12. what is redux 
+
+13. settimeout and setinterval
+
+
+14. why React  
+    it uses virtual dom
+    it has one way data binding basically the data will be passed from parent to child components
+because of components the it will be easy to reuse the code again 
+debugging is easy and react is faster
+
+15. Version of react js 
+Functional based componenets (we are using this )  and class based components
+
+16. es6 features (let, const,arrow functions, promise, rest operator, spread operator, 
+
+16. event loop (this comes into picture when aync comes in)  
+    lets say settime out and promise both are which one will take less time
+
+17. shallow copy and deep copy 
+    shallow creates an another memory and deep reference to the same memory
+
+18. diff btw reduce and map function 
+19.  what parameters reduce and map function have 
+20. diff btw promise and callback 
+21. position attributes (absolute, fixed, relative)
+22. diff btw display:none(removes the element completly and visibility:hidden(it keeps the element hidden) 
+23. usecallback and usememo
+24. react lifecycle (getderivestateprops)(functional base and class 
+25. how we can achieve componenet did mount in functional based component \
+26. pure components and higher oder components
+27. context API 
+28. React Js features ( JSX , Virtual DOM, Hooks, componenets)
+29. why we should not update state directly
+30. how do we create components in react
+31. pure components 
+32. rule of call backs 
+ 
+    
+
+    
+
+ 
+     
